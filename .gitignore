@@ -1,2 +1,3 @@
 /.idea
 /.venv
+!src/put_plugin_here.txt
