@@ -3,9 +3,13 @@
 
 ## 使用
 
+### 客户端
+
 #### Vred 2025 插件目录默认是`C:\Users\-Your-User-Name-\Documents\Autodesk\VRED-17.0\ScriptPlugins`
 
 - 将`plugin`目录下的`PluginClient`放到插件目录下
+
+### 服务端
  
 - 将要更新的vred插件放入到`src`目录下
 
